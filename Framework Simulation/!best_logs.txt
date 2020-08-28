@@ -1,0 +1,4 @@
+Bluetooth 28-bit clock: Framework before SIB1
+Bluetooth random: Framework before SIB1
+Wi-Fi 28-bit clock: Framework before SIB1
+Wi-Fi random: Framework after SIB1
